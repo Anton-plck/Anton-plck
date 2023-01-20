@@ -4,7 +4,7 @@
 #### **My name is Anton, I am currently looking for a new career opportunity as a QA Engineer. In 2020, I successfully completed the IT Academy courses, from January to May 2022 I took the course of Vadim Ksendzov.**
 
 ### **My CV 🖺**
-[Link to my CV](https://drive.google.com/file/d/1AEkvAeEcHHpzlhuCYNWP6E7WlXN_zUgT/view?usp=share_link)
+[Link to my CV](https://drive.google.com/file/d/173nw7To2U-86p5y92BYT6o1B_n1u-rqi/view?usp=share_link)
 ### **Certificate**
 [Link to my certificate](https://github.com/Anton-plck/Certificate/blob/main/Randarenka.pdf)
 
